@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3e1c4d-86f7-4ca5-a6d4-b11759f23cc4" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/templates/hello-template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Springboot_study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/chapter3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/Controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +39,14 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="05cf06d9-b03e-4b13-86a7-3503ddc77989" />
+        <option name="url" value="https://github.com/barabobBOB/Springboot_study.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="hiuegxph" />
   </component>
@@ -50,8 +61,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -138,6 +152,12 @@
       <workItem from="1645634719294" duration="36000" />
       <workItem from="1645634759109" duration="21000" />
       <workItem from="1645634796438" duration="687000" />
+      <workItem from="1645676479309" duration="663000" />
+      <workItem from="1645678685973" duration="77000" />
+      <workItem from="1645678769280" duration="8000" />
+      <workItem from="1645715981423" duration="597000" />
+      <workItem from="1646505117100" duration="5000" />
+      <workItem from="1646505143262" duration="3000" />
     </task>
     <servers />
   </component>
